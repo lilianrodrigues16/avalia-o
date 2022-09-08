@@ -1,5 +1,5 @@
 # avalia-o <h1>História DO PARANÁ </h1>
-<!DOCTYPE html>
+<!DOCTYPEhtml>
 <html lang="pt=br">
 <strong>História do Paraná<strong/>
 <P>No século XVI, as terras que hoje fazem parte do estado do Paraná, pertenciam a Capitania de São Vicente. Nessa época, a região era visitada por exploradores europeus em busca de madeira de lei. Somente no século XVII, em 1660, foi iniciada a colonização, com a fundação da Vila de Paranaguá, por colonos e jesuítas espanhóis. Curitiba, atual capital do estado, também foi fundada logo no início da colonização das terras paranaenses, tendo sido elevada a vila em 1693.
